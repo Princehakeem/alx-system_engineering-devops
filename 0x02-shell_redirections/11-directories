@@ -1,2 +1,2 @@
 #!/bin/baash
-find . -type d! -path . | wc -1
+find . -type d ! -path . | wc -1
